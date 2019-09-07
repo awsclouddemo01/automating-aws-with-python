@@ -1,3 +1,4 @@
 Read me first.
-Changed 1st time.
-2nd time changes
+
+## 01-webotron
+webotron is a script that will sync a local directory to an s3 bucket, and optionally configure Route 53 and clodufront as well.
